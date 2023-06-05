@@ -70,8 +70,4 @@ Contributions are welcome! If you have any ideas or improvements for the game, f
 
 This project is licensed under the [MIT License](LICENSE). 
 
-## Acknowledgements
-
-- This game is based on the original Stick Hero game developed by Hunor Marton Borbely. You can find the original codepen at [CodePen](https://codepen.io/HunorMarton/pen/xxOMQKg).
-- Special thanks to the developers of the libraries and resources used in this game.
 
