@@ -41,7 +41,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Stick Hero is a simple and addictive game where you need to help a stick figure cross gaps by creating bridges with sticks. Test your reflexes and accuracy in this challenging game!
 
-![Game Screenshot](./screenshot.png)
 
 ## Demo
 
