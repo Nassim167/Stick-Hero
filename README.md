@@ -3,11 +3,11 @@
 
 Stick Hero is a simple and addictive game where you need to help a stick figure cross gaps by creating bridges with sticks. Test your reflexes and accuracy in this challenging game!
 
-![Game Screenshot](./screenshot.png)
+![Game Screenshot](./ScreenShhoot/screen.png)
 
 ## Demo
 
-You can play the game online at [Game Demo](https://nassim167.github.io/stick-hero/).
+You can play the game online at [Game Demo](https://nassim167.github.io/Stick-Hero/).
 
 ## How to Play
 
